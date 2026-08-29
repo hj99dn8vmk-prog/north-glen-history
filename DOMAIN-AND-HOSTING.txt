@@ -1,0 +1,27 @@
+North Glen Historical Archive
+
+Target/branding domain used in the site:
+northglenhistory.com.au
+
+IMPORTANT:
+This is a domain-ready multi-page website, but the domain above is NOT automatically registered or live.
+A real public domain has to be purchased/registered and pointed at a web host.
+
+Website entry page:
+index.html
+
+Pages:
+- North Glen
+- Places
+- Larundel
+- Narmbool
+- Moranghurk
+- Elaine
+- Meredith
+- Mount Mercer
+- Area History
+- Timeline
+- People
+- Heraldry
+- Sources
+- Search
